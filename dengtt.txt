@@ -2,4 +2,4 @@ Today is Thursday,now time is 10:25
 Today is sunny day,You should go out for a walk
 I am working
 I don't know what to write,stupid
-creating a new branch is quick &simple 
+creating a new branch is quick & simple
